@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Icono de Virtual Cycling (add-installable-app, design.md D3): una carretera que sube en curvas hasta un puerto de montaña. Solo usa los primitivos ink-900, violet-500 y white de tokens.css. Los PNG se generan con scripts/generate-app-icons.mjs. -->
+  <rect width="512" height="512" rx="112" fill="#14122B"/>
+  <g>
+    <path fill="#7300FF" d="M56 440 L196 196 L246 262 L330 104 L456 440 Z"/>
+    <path fill="#FFFFFF" d="M330 104 L366 172 L348 162 L332 180 L314 160 L296 170 Z"/>
+    <path fill="#FFFFFF" d="M196 196 L218 234 L206 228 L196 240 L186 228 L176 234 Z"/>
+    <path fill="#FFFFFF" d="M186 440 C 168 396, 300 384, 300 338 C 300 304, 228 312, 236 280 C 240 266, 252 262, 258 258 L 262 260 C 256 268, 250 276, 254 286 C 262 306, 324 304, 324 342 C 324 396, 236 404, 286 440 Z"/>
+  </g>
+</svg>

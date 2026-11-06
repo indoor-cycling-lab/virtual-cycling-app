@@ -1,0 +1,35 @@
+{
+  "name": "Virtual Cycling",
+  "short_name": "Virtual Cycling",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14122B",
+  "theme_color": "#14122B",
+  "icons": [
+    {
+      "src": "assets/app-icon-8a0f383d.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-192-2897dd69.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512-30968642.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-maskable-512-895ea3aa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
